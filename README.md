@@ -32,7 +32,7 @@ It provides an overview of the features and capabilities of PSOC™ Edge, includ
 By the end, attendees will understand PSOC™ Edge’s features and architecture, the benefits of edge AI/ML on this platform, and how to quickly prototype and evaluate applications using Infineon’s tools and development kits.
 
 ## Content
-- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/e11a8a78-7fa0-44fe-8c2b-dde1ef4f6e79)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253dE11A8A78-7FA0-44FE-8C2B-DDE1EF4F6E79)
 - [Presentation PDF](./Presentation/E1_Introduction_to_PSOC_Edge.pdf)
 
 ## References and resources
@@ -43,4 +43,4 @@ By the end, attendees will understand PSOC™ Edge’s features and architecture
 ## History 
 | Date       | Version   | Description                       |
 |------------|-----------|-----------------------------------|
-| 01/27/2026 | **  | First public release |  
+| 02/03/2026 | **  | First public release |  
