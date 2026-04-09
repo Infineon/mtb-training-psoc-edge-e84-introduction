@@ -1,4 +1,4 @@
-# PSOC™ Edge E1 Training - Introduction to PSOC™ Edge
+# PSOC™ Edge Training - Introduction to PSOC™ Edge
 
 The training provides an introduction to PSOC™ Edge. 
 It provides an overview of the features and capabilities of PSOC™ Edge, including its hardware-assisted Machine Learning/Machine Intelligence (ML/ML) and artificial intelligence (AI) capabilities, sensor fusion, and real-time control. The training also discusses the target applications of PSOC™ Edge, such as wearables, smart home devices, and medical devices, and provides information on the development boards and kits available for evaluation and prototyping. The training aims to provide a comprehensive overview of PSOC™ Edge and its capabilities, and to provide an introduction to innovative applications that leverage its features and abilities.
@@ -37,7 +37,7 @@ By the end, attendees will understand PSOC™ Edge’s features and architecture
 
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/product-information/psocdeveloper)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
 ## History 
